@@ -10,8 +10,8 @@
 
 ## Tecnologias
 
-- **Linguagem:** Python
-- **Banco de Dados:** JSON
+- Linguagem: Python
+- Banco de Dados: JSON
 
 ## Criado por
 
