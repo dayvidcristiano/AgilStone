@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nome_do_produto": "Carregador ",
+        "categoria_do_produto": "Eletrônicos ",
+        "quantidade_em_estoque": 63,
+        "valor_do_produto": "22"
+    }
+]
